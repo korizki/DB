@@ -1,0 +1,20 @@
+[
+    {
+        "id"    : 1,
+        "name"  : "Hayabusa",
+        "type"  : "Assasin",
+        "url"   : "https://idkurir.web.id/wp-content/uploads/2018/08/Build-Hayabusa-Savage-Top-Global-Mobile-Legends.jpg", 
+        "ulti"  : "Shadow Kill",
+        "detail"    : "Ninja dari Land of Dawn ",
+        "weak"  : "Marksman, Mage, Fighter" 
+    },
+    {
+        "id"    : 2,
+        "name"  : "Ling",
+        "type"  : "Assasin",
+        "url"   : "https://garisatu.com/wp-content/uploads/2020/04/Liiinnngg.jpg", 
+        "ulti"  : "Circle of Sword",
+        "detail"    : "Assasin Samurai dari Land of Dawn ",
+        "weak"  : "Mage, Fighter" 
+    }
+]
