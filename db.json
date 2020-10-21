@@ -19,10 +19,28 @@
                 "ulti"  : "Circle of Sword",
                 "detail"    : "Assasin Samurai dari Land of Dawn ",
                 "weak"  : "Mage, Fighter" 
+            },
+            {
+                "id"    : 3,
+                "name"  : "Saber",
+                "type"  : "Assasin",
+                "url"   : "https://www.revivaltv.id/wp-content/uploads/2019/05/450-768x432.jpg", 
+                "ulti"  : "Sword of Hand",
+                "detail"    : "Iron Man versi Mobile Legend.",
+                "weak"  : "Fighter" 
+            },
+            {
+                "id"    : 2,
+                "name"  : "Gusion",
+                "type"  : "Assasin / Magic Damage / Mage",
+                "url"   : "https://api.duniagames.co.id/api/content/upload/file/14562529831579494777.jpg", 
+                "ulti"  : "Lightning Dagger",
+                "detail"    : "Assasin yang pandai memainkan pisau kecil / dagger",
+                "weak"  : "Mage" 
             }
 
         ]
          
     }
     
-
+    
