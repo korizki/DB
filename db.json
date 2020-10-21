@@ -1,72 +1,71 @@
 
-    // {
-    //     "hero"  : [
+    {
+        "hero"  : [
+            {
+                "id"    : 1,
+                "name"  : "Hayabusa",
+                "type"  : "Assasin",
+                "url"   : "https://idkurir.web.id/wp-content/uploads/2018/08/Build-Hayabusa-Savage-Top-Global-Mobile-Legends.jpg", 
+                "ulti"  : "Shadow Kill",
+                "detail"    : "Ninja dari Land of Dawn ",
+                "weak"  : "Marksman, Mage, Fighter"
+            },
+            {
+                "id"    : 2,
+                "name"  : "Ling",
+                "type"  : "Assasin",
+                "url"   : "https://garisatu.com/wp-content/uploads/2020/04/Liiinnngg.jpg", 
+                "ulti"  : "Circle of Sword",
+                "detail"    : "Assasin Samurai dari Land of Dawn ",
+                "weak"  : "Mage, Fighter" 
+            },
+            {
+                "id"    : 3,
+                "name"  : "Saber",
+                "type"  : "Assasin",
+                "url"   : "https://www.revivaltv.id/wp-content/uploads/2019/05/450-768x432.jpg", 
+                "ulti"  : "Sword of Hand",
+                "detail"    : "Iron Man versi Mobile Legend.",
+                "weak"  : "Fighter" 
+            },
+            {
+                "id"    : 4,
+                "name"  : "Gusion",
+                "type"  : "Assasin / Mage",
+                "url"   : "https://api.duniagames.co.id/api/content/upload/file/14562529831579494777.jpg", 
+                "ulti"  : "Lightning Dagger",
+                "detail"    : "Assasin yang pandai memainkan pisau kecil / dagger",
+                "weak"  : "Mage" 
+            },
+            {
+                "id"    : 5,
+                "name"  : "Miya",
+                "type"  : "Marksman",
+                "url"   : "https://img.okezone.com/content/2019/08/18/326/2093417/tips-jadi-marksman-terbaik-di-mobile-legends-DmULdz2e90.jpg", 
+                "ulti"  : "Invisible Run",
+                "detail"    : "Marksman dengan panah",
+                "weak"  : "Assasin, Fighter" 
+            },
+            {
+                "id"    : 6,
+                "name"  : "Granger",
+                "type"  : "Marksman",
+                "url"   : "https://asset.indosport.com/article/image/q/80/283453/granger_1600x800_cr-169.jpg?w=750&h=423", 
+                "ulti"  : "Sonneta Bomb",
+                "detail"    : "Marksman dengan pistol",
+                "weak"  : "Assasin, Mage" 
+            },
+            {
+                "id"    : 7,
+                "name"  : "Lesley",
+                "type"  : "Marksman",
+                "url"   : "https://sayaajarkan.com/wp-content/uploads/2019/03/marksman-1000x563.jpg", 
+                "ulti"  : "Gun of Spirit",
+                "detail"    : "Marksman dengan pistol",
+                "weak"  : "Fighter, Mage" 
+            }
 
-    //         {
-    //             "id"    : 1,
-    //             "name"  : "Hayabusa",
-    //             "type"  : "Assasin",
-    //             "url"   : "https://idkurir.web.id/wp-content/uploads/2018/08/Build-Hayabusa-Savage-Top-Global-Mobile-Legends.jpg", 
-    //             "ulti"  : "Shadow Kill",
-    //             "detail"    : "Ninja dari Land of Dawn ",
-    //             "weak"  : "Marksman, Mage, Fighter"
-    //         },
-    //         {
-    //             "id"    : 2,
-    //             "name"  : "Ling",
-    //             "type"  : "Assasin",
-    //             "url"   : "https://garisatu.com/wp-content/uploads/2020/04/Liiinnngg.jpg", 
-    //             "ulti"  : "Circle of Sword",
-    //             "detail"    : "Assasin Samurai dari Land of Dawn ",
-    //             "weak"  : "Mage, Fighter" 
-    //         },
-    //         {
-    //             "id"    : 3,
-    //             "name"  : "Saber",
-    //             "type"  : "Assasin",
-    //             "url"   : "https://www.revivaltv.id/wp-content/uploads/2019/05/450-768x432.jpg", 
-    //             "ulti"  : "Sword of Hand",
-    //             "detail"    : "Iron Man versi Mobile Legend.",
-    //             "weak"  : "Fighter" 
-    //         },
-    //         {
-    //             "id"    : 4,
-    //             "name"  : "Gusion",
-    //             "type"  : "Assasin / Mage",
-    //             "url"   : "https://api.duniagames.co.id/api/content/upload/file/14562529831579494777.jpg", 
-    //             "ulti"  : "Lightning Dagger",
-    //             "detail"    : "Assasin yang pandai memainkan pisau kecil / dagger",
-    //             "weak"  : "Mage" 
-    //         },
-    //         {
-    //             "id"    : 5,
-    //             "name"  : "Miya",
-    //             "type"  : "Marksman",
-    //             "url"   : "https://img.okezone.com/content/2019/08/18/326/2093417/tips-jadi-marksman-terbaik-di-mobile-legends-DmULdz2e90.jpg", 
-    //             "ulti"  : "Invisible Run",
-    //             "detail"    : "Marksman dengan panah",
-    //             "weak"  : "Assasin, Fighter" 
-    //         },
-    //         {
-    //             "id"    : 6,
-    //             "name"  : "Granger",
-    //             "type"  : "Marksman",
-    //             "url"   : "https://asset.indosport.com/article/image/q/80/283453/granger_1600x800_cr-169.jpg?w=750&h=423", 
-    //             "ulti"  : "Sonneta Bomb",
-    //             "detail"    : "Marksman dengan pistol",
-    //             "weak"  : "Assasin, Mage" 
-    //         },
-    //         {
-    //             "id"    : 7,
-    //             "name"  : "Lesley",
-    //             "type"  : "Marksman",
-    //             "url"   : "https://sayaajarkan.com/wp-content/uploads/2019/03/marksman-1000x563.jpg", 
-    //             "ulti"  : "Gun of Spirit",
-    //             "detail"    : "Marksman dengan pistol",
-    //             "weak"  : "Fighter, Mage" 
-    //         }
-
-    //     ]
+        ]
          
-    // }
+    }
     
