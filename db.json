@@ -54,15 +54,6 @@
                 "ulti"  : "Sonneta Bomb",
                 "detail"    : "Marksman dengan pistol",
                 "weak"  : "Assasin, Mage" 
-            },
-            {
-                "id"    : 7,
-                "name"  : "Lesley",
-                "type"  : "Marksman",
-                "url"   : "https://sayaajarkan.com/wp-content/uploads/2019/03/marksman-1000x563.jpg", 
-                "ulti"  : "Gun of Spirit",
-                "detail"    : "Marksman dengan pistol",
-                "weak"  : "Fighter, Mage" 
             }
 
         ]
