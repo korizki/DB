@@ -111,28 +111,28 @@
             {
                 "id" : 1,
                 "name" : "Uzumaki Naruto",
-                "email" : narutoshippuden@gmail.com,
+                "email" : "narutoshippuden@gmail.com",
                 "rating" : "4.8",
                 "url" : "https://www.pinclipart.com/picdir/middle/571-5712904_naruto-face-png-anime-boy-easy-drawing-clipart.png"
             },
             {
                 "id" : 2,
                 "name" : "Sasuke Uchiha",
-                "email" : sasukesharinggan@gmail.com,
+                "email" : "sasukesharinggan@gmail.com",
                 "rating" : "4.9",
                 "url" : "https://toppng.com/uploads/preview/aruto-head-png-sasuke-chibi-11562896004mvrlppar0s.png"
             },
             {
                 "id" : 3,
                 "name" : "Sakura Haruno",
-                "email" : sakurashanaro@gmail.com,
+                "email" : "sakurashanaro@gmail.com",
                 "rating" : "4.5",
                 "url" : "https://assets.dragoart.com/images/12053_501/how-to-draw-sakura-easy_5e4c9f6e1ab411.15399416_54345_3_4.gif"
             },
             {
                 "id" : 4,
                 "name" : "Hatake Kakashi",
-                "email" : kakashichidori@gmail.com,
+                "email" : "kakashichidori@gmail.com",
                 "rating" : "5",
                 "url" : "https://www.pngitem.com/pimgs/m/16-166120_cartoon-faces-anime-naruto-kakashi-naruto-shippuden-hatake.png"
             }
