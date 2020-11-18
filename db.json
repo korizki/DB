@@ -108,14 +108,7 @@
             }
         ],
         "userPA" : [
-            {
-                "id" : 1,
-                "name" : "Uzumaki Naruto",
-                "email" : "narutoshipuden@gmail.com",
-                "phone" : "087764553372",
-                "rating" : "4.8",
-                "url" : "https://www.pinclipart.com/picdir/middle/571-5712904_naruto-face-png-anime-boy-easy-drawing-clipart.png"
-            },
+            
             {
                 "id" : 2,
                 "name" : "Sasuke Uchiha",
@@ -139,6 +132,14 @@
                 "phone" : "081567223476",
                 "rating" : "5",
                 "url" : "https://www.pngitem.com/pimgs/m/16-166120_cartoon-faces-anime-naruto-kakashi-naruto-shippuden-hatake.png"
+            },
+            {
+                "id" : 1,
+                "name" : "Uzumaki Naruto",
+                "email" : "narutoshipuden@gmail.com",
+                "phone" : "087764553372",
+                "rating" : "4.8",
+                "url" : "https://www.pinclipart.com/picdir/middle/571-5712904_naruto-face-png-anime-boy-easy-drawing-clipart.png"
             }
         ]
          
