@@ -143,43 +143,41 @@
             }
         ],
         "offdate" : [
-            
             {
                 "id" : 1,
                 "date" : "22 Mei 2020",
-                "info" : "Idul Fitri 1441 Hijriyah",
+                "info" : "Idul Fitri 1441 Hijriyah"
             },
             {
                 "id" : 2,
                 "date" : "21 Agustus 2020",
-                "info" : "Tahun Baru Islam 1442 Hijriyah",
+                "info" : "Tahun Baru Islam 1442 Hijriyah"
             },
             {
                 "id" : 3,
                 "date" : "28 Oktober 2020",
-                "info" : "Maulid Nabi Muhammad saw",
+                "info" : "Maulid Nabi Muhammad saw"
             },
             {
                 "id" : 4,
                 "date" : "24 Desember 2020",
-                "info" : "Hari Raya Natal",
+                "info" : "Hari Raya Natal"
             },
             {
                 "id" : 5,
                 "date" : "28 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah",
+                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
             },
             {
                 "id" : 6,
                 "date" : "29 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah",
+                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
             },
             {
                 "id" : 7,
                 "date" : "30 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah",
-            },
-            
+                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
+            }
         ]
          
     }
