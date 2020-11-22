@@ -1,138 +1,135 @@
-
-    {
-        "userPA" : [
-            
-            {
-                "id" : 2,
-                "name" : "Sasuke Uchiha",
-                "email" : "sasukesringgan@gmail.com",
-                "phone" : "082134437897",
-                "rating" : "4.9",
-                "url" : "https://toppng.com/uploads/preview/aruto-head-png-sasuke-chibi-11562896004mvrlppar0s.png"
-            },
-            {
-                "id" : 3,
-                "name" : "Sakura Haruno",
-                "email" : "sakurashanaro@gmail.com",
-                "phone" : "082349078655",
-                "rating" : "4.5",
-                "url" : "https://assets.dragoart.com/images/12053_501/how-to-draw-sakura-easy_5e4c9f6e1ab411.15399416_54345_3_4.gif"
-            },
-            {
-                "id" : 4,
-                "name" : "Hatake Kakashi",
-                "email" : "kakashichidori@gmail.com",
-                "phone" : "081567223476",
-                "rating" : "5",
-                "url" : "https://www.pngitem.com/pimgs/m/16-166120_cartoon-faces-anime-naruto-kakashi-naruto-shippuden-hatake.png"
-            },
-            {
-                "id" : 1,
-                "name" : "Uzumaki Naruto",
-                "email" : "narutoshipuden@gmail.com",
-                "phone" : "087764553372",
-                "rating" : "4.8",
-                "url" : "https://www.pinclipart.com/picdir/middle/571-5712904_naruto-face-png-anime-boy-easy-drawing-clipart.png"
-            }
-        ],
-        "offdate" : [
-            {
-                "id" : 1,
-                "date" : "22 Mei 2020",
-                "info" : "Idul Fitri 1441 Hijriyah"
-            },
-            {
-                "id" : 2,
-                "date" : "21 Agustus 2020",
-                "info" : "Tahun Baru Islam 1442 Hijriyah"
-            },
-            {
-                "id" : 3,
-                "date" : "28 Oktober 2020",
-                "info" : "Maulid Nabi Muhammad saw"
-            },
-            {
-                "id" : 4,
-                "date" : "24 Desember 2020",
-                "info" : "Hari Raya Natal"
-            },
-            {
-                "id" : 5,
-                "date" : "28 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
-            },
-            {
-                "id" : 6,
-                "date" : "29 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
-            },
-            {
-                "id" : 7,
-                "date" : "30 Desember 2020",
-                "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
-            }
-        ], 
-        "comment" : [
-            {
-                "id" : 1,
-                "pbaname" : "Naruto Uzumaki",
-                "pcuname" : "Zabuza",
-                "meetingdate" : "12 Oktober 2020",
-                "meetingtime" : "08:00 WIB",
-                "pcuphone" : "082182874744",
-                "ratingnumber" : "4.5",
-                "comment" : "Pegawainya baik banget pokoknya"
-            },
-            {
-                "id" : 2,
-                "pbaname" : "Sasuke Uchiha",
-                "pcuname" : "Gaara",
-                "meetingdate" : "15 Oktober 2020",
-                "meetingtime" : "11:00 WIB",
-                "pcuphone" : "089976622233",
-                "ratingnumber" : "4.5",
-                "comment" : "The best battle ever"
-            },
-            {
-                "id" : 3,
-                "pbaname" : "Sakura Haruno",
-                "pcuname" : "Sasori ",
-                "meetingdate" : "19 November 2020",
-                "meetingtime" : "13:00 WIB",
-                "pcuphone" : "082344328764",
-                "ratingnumber" : "4.0",
-                "comment" : "Now i'll be peace with my parents hug"
-            },
-            {
-                "id" : 4,
-                "pbaname" : "Hatake Kakashi",
-                "pcuname" : "Hidan",
-                "meetingdate" : "10 Oktober 2020",
-                "meetingtime" : "10:00 WIB",
-                "pcuphone" : "082132665467",
-                "ratingnumber" : "4.4",
-                "comment" : "You trying to kill me soon"
-            },
-            {
-                "id" : 5,
-                "pbaname" : "Maito Guy",
-                "pcuname" : "Madara Uchiha",
-                "meetingdate" : "17 Agustus 2020",
-                "meetingtime" : "22:00 WIB",
-                "pcuphone" : "089976663332",
-                "ratingnumber" : "4.5",
-                "comment" : "You have a deadly Taijutsu"
-            },
-            {
-                "id" : 6,
-                "pbaname" : "Gaara",
-                "pcuname" : "Kimimaro",
-                "meetingdate" : "23 November 2020",
-                "meetingtime" : "11:00 WIB",
-                "pcuphone" : "082298709542",
-                "ratingnumber" : "4.0",
-                "comment" : "My last change"
-            }
-        ], 
-    }
+{
+    "userPA" : [
+        {
+            "id" : 2,
+            "name" : "Sasuke Uchiha",
+            "email" : "sasukesringgan@gmail.com",
+            "phone" : "082134437897",
+            "rating" : "4.9",
+            "url" : "https://toppng.com/uploads/preview/aruto-head-png-sasuke-chibi-11562896004mvrlppar0s.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Sakura Haruno",
+            "email" : "sakurashanaro@gmail.com",
+            "phone" : "082349078655",
+            "rating" : "4.5",
+            "url" : "https://assets.dragoart.com/images/12053_501/how-to-draw-sakura-easy_5e4c9f6e1ab411.15399416_54345_3_4.gif"
+        },
+        {
+            "id" : 4,
+            "name" : "Hatake Kakashi",
+            "email" : "kakashichidori@gmail.com",
+            "phone" : "081567223476",
+            "rating" : "5",
+            "url" : "https://www.pngitem.com/pimgs/m/16-166120_cartoon-faces-anime-naruto-kakashi-naruto-shippuden-hatake.png"
+        },
+        {
+            "id" : 1,
+            "name" : "Uzumaki Naruto",
+            "email" : "narutoshipuden@gmail.com",
+            "phone" : "087764553372",
+            "rating" : "4.8",
+            "url" : "https://www.pinclipart.com/picdir/middle/571-5712904_naruto-face-png-anime-boy-easy-drawing-clipart.png"
+        }
+    ],
+    "offdate" : [
+        {
+            "id" : 1,
+            "date" : "22 Mei 2020",
+            "info" : "Idul Fitri 1441 Hijriyah"
+        },
+        {
+            "id" : 2,
+            "date" : "21 Agustus 2020",
+            "info" : "Tahun Baru Islam 1442 Hijriyah"
+        },
+        {
+            "id" : 3,
+            "date" : "28 Oktober 2020",
+            "info" : "Maulid Nabi Muhammad saw"
+        },
+        {
+            "id" : 4,
+            "date" : "24 Desember 2020",
+            "info" : "Hari Raya Natal"
+        },
+        {
+            "id" : 5,
+            "date" : "28 Desember 2020",
+            "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
+        },
+        {
+            "id" : 6,
+            "date" : "29 Desember 2020",
+            "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
+        },
+        {
+            "id" : 7,
+            "date" : "30 Desember 2020",
+            "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
+        }
+    ], 
+    "comment" : [
+        {
+            "id" : 1,
+            "pbaname" : "Naruto Uzumaki",
+            "pcuname" : "Zabuza",
+            "meetingdate" : "12 Oktober 2020",
+            "meetingtime" : "08:00 WIB",
+            "pcuphone" : "082182874744",
+            "ratingnumber" : "4.5",
+            "comment" : "Pegawainya baik banget pokoknya"
+        },
+        {
+            "id" : 2,
+            "pbaname" : "Sasuke Uchiha",
+            "pcuname" : "Gaara",
+            "meetingdate" : "15 Oktober 2020",
+            "meetingtime" : "11:00 WIB",
+            "pcuphone" : "089976622233",
+            "ratingnumber" : "4.5",
+            "comment" : "The best battle ever"
+        },
+        {
+            "id" : 3,
+            "pbaname" : "Sakura Haruno",
+            "pcuname" : "Sasori ",
+            "meetingdate" : "19 November 2020",
+            "meetingtime" : "13:00 WIB",
+            "pcuphone" : "082344328764",
+            "ratingnumber" : "4.0",
+            "comment" : "Now i'll be peace with my parents hug"
+        },
+        {
+            "id" : 4,
+            "pbaname" : "Hatake Kakashi",
+            "pcuname" : "Hidan",
+            "meetingdate" : "10 Oktober 2020",
+            "meetingtime" : "10:00 WIB",
+            "pcuphone" : "082132665467",
+            "ratingnumber" : "4.4",
+            "comment" : "You trying to kill me soon"
+        },
+        {
+            "id" : 5,
+            "pbaname" : "Maito Guy",
+            "pcuname" : "Madara Uchiha",
+            "meetingdate" : "17 Agustus 2020",
+            "meetingtime" : "22:00 WIB",
+            "pcuphone" : "089976663332",
+            "ratingnumber" : "4.5",
+            "comment" : "You have a deadly Taijutsu"
+        },
+        {
+            "id" : 6,
+            "pbaname" : "Gaara",
+            "pcuname" : "Kimimaro",
+            "meetingdate" : "23 November 2020",
+            "meetingtime" : "11:00 WIB",
+            "pcuphone" : "082298709542",
+            "ratingnumber" : "4.0",
+            "comment" : "My last change"
+        }
+    ]
 }
