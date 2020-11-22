@@ -179,67 +179,6 @@
                 "info" : "Cuti Bersama Idul Fitri 1441 Hijriyah"
             }
         ],
-        "comment" : [
-            {
-                "id" : 1,
-                "pbaname" : "Naruto Uzumaki",
-                "pcuname" : "Zabuza",
-                "meetingdate" : "12 Oktober 2020",
-                "meetingtime" : "08:00 WIB",
-                "pcuphone" : "082182874744",
-                "ratingnumber" : "4.5",
-                "comment" : "Pegawainya baik banget pokoknya"
-            },
-            {
-                "id" : 2,
-                "pbaname" : "Sasuke Uchiha",
-                "pcuname" : "Gaara",
-                "meetingdate" : "15 Oktober 2020",
-                "meetingtime" : "11:00 WIB",
-                "pcuphone" : "089976622233",
-                "ratingnumber" : "4.5",
-                "comment" : "The best battle ever"
-            },
-            {
-                "id" : 3,
-                "pbaname" : "Sakura Haruno",
-                "pcuname" : "Sasori ",
-                "meetingdate" : "19 November 2020",
-                "meetingtime" : "13:00 WIB",
-                "pcuphone" : "082344328764",
-                "ratingnumber" : "4.0",
-                "comment" : "Now i'll be peace with my parents hug"
-            },
-            {
-                "id" : 4,
-                "pbaname" : "Hatake Kakashi",
-                "pcuname" : "Hidan",
-                "meetingdate" : "10 Oktober 2020",
-                "meetingtime" : "10:00 WIB",
-                "pcuphone" : "082132665467",
-                "ratingnumber" : "4.4",
-                "comment" : "You trying to kill me soon"
-            },
-            {
-                "id" : 5,
-                "pbaname" : "Maito Guy",
-                "pcuname" : "Madara Uchiha",
-                "meetingdate" : "17 Agustus 2020",
-                "meetingtime" : "22:00 WIB",
-                "pcuphone" : "089976663332",
-                "ratingnumber" : "4.5",
-                "comment" : "You have a deadly Taijutsu"
-            },
-            {
-                "id" : 6,
-                "pbaname" : "Gaara",
-                "pcuname" : "Kimimaro",
-                "meetingdate" : "23 November 2020",
-                "meetingtime" : "11:00 WIB",
-                "pcuphone" : "082298709542",
-                "ratingnumber" : "4.0",
-                "comment" : "My last change"
-            }
-        ],
+       
     }
     
