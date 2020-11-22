@@ -190,7 +190,6 @@
                 "ratingnumber" : "4.5",
                 "comment" : "Pegawainya baik banget pokoknya"
             },
-            
             {
                 "id" : 2,
                 "pbaname" : "Sasuke Uchiha",
@@ -201,7 +200,6 @@
                 "ratingnumber" : "4.5",
                 "comment" : "The best battle ever"
             },
-            
             {
                 "id" : 3,
                 "pbaname" : "Sakura Haruno",
@@ -212,7 +210,6 @@
                 "ratingnumber" : "4.0",
                 "comment" : "Now i'll be peace with my parents hug"
             },
-            
             {
                 "id" : 4,
                 "pbaname" : "Hatake Kakashi",
@@ -223,7 +220,6 @@
                 "ratingnumber" : "4.4",
                 "comment" : "You trying to kill me soon"
             },
-            
             {
                 "id" : 5,
                 "pbaname" : "Maito Guy",
@@ -234,7 +230,6 @@
                 "ratingnumber" : "4.5",
                 "comment" : "You have a deadly Taijutsu"
             },
-            
             {
                 "id" : 6,
                 "pbaname" : "Gaara",
@@ -244,8 +239,7 @@
                 "pcuphone" : "082298709542",
                 "ratingnumber" : "4.0",
                 "comment" : "My last change"
-            },
-        ]
-         
+            }
+        ],
     }
     
